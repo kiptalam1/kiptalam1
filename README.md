@@ -4,21 +4,14 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Adams</h1>
 
 ###
 
-<p align="left">My name is Adams and I'm a FullStack developer from Kenya.</p>
+<p align="left">I build full-stack web applications with complex features like RBAC, real-time chat, and multi-tenancy. I am based in Kenya, and available for freelance work and full-time roles.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning NextJS and Python<br>🎯 Goals: Software Engineering</p>
-
-###
 
 <h2 align="left">Skills</h2>
 
