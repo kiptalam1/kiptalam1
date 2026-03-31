@@ -12,6 +12,79 @@
 
 ###
 
+<h2 align="left">Featured Projects</h2>
+
+###
+
+<div align="left">
+  <h3>🏢 ProjoStack</h3>
+  <p><strong>A multi-tenant workspace management platform</strong> — Manage workspaces, projects, tasks, and team members with role-based access control. Features workspace invitations, task assignments, and project tracking across multiple organizations.</p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript" />
+  </p>
+  <p>
+    <a href="https://projostack.onrender.com" target="_blank">🔗 Live Demo</a> • 
+    <a href="https://github.com/kiptalam1/projostack" target="_blank">📁 GitHub Repo</a>
+  </p>
+  <details>
+    <summary>🔧 Tech Stack Details</summary>
+    Frontend: React, TypeScript, TailwindCSS<br>
+    Backend: Node.js, Express, PostgreSQL, Prisma<br>
+    Features: RBAC, Multi-tenancy, JWT auth, Workspace invitations
+  </details>
+</div>
+
+<br>
+
+<div align="left">
+  <h3>🏠 Housekonekt</h3>
+  <p><strong>A property listing and tenant-landlord communication platform</strong> — Landlords post apartments with details and images. Tenants browse listings, filter by location/price, and chat directly with landlords to streamline the house-hunting process.</p>
+  <p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="28" alt="socketio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="tailwindcss" />
+  </p>
+  <p>
+    <a href="https://housekonekt.onrender.com" target="_blank">🔗 Live Demo</a> • 
+    <a href="https://github.com/kiptalam1/housekonekt" target="_blank">📁 GitHub Repo</a>
+  </p>
+  <details>
+    <summary>🔧 Tech Stack Details</summary>
+    Frontend: React, TailwindCSS<br>
+    Backend: Node.js, Express, PostgreSQL, Socket.io<br>
+    Features: Real-time chat, Image uploads, Filtering & search
+  </details>
+</div>
+
+<br>
+
+<div align="left">
+  <h3>🛍️ Malibaze</h3>
+  <p><strong>A full-featured e-commerce platform</strong> — Complete online store with product catalog, shopping cart, user authentication, order management, and payment processing.</p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb" />
+   <img src="https://skillicons.dev/icons?i=express" height="28" alt="express logo"  />
+  </p>
+  <p>
+    <a href="https://housekonekt.onrender.com" target="_blank">🔗 Live Demo</a> • 
+    <a href="https://github.com/kiptalam1/malibaze" target="_blank">📁 GitHub Repo</a>
+  </p>
+  <details>
+    <summary>🔧 Tech Stack Details</summary>
+    Frontend: React, Context API, CSS Modules<br>
+    Backend: Node.js, Express, MongoDB, JWT<br>
+    Features: Shopping cart, Order tracking, Payment integration
+  </details>
+</div>
+
+###
+
 
 <h2 align="left">Skills</h2>
 
@@ -49,6 +122,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
 </div>
 
 ###
