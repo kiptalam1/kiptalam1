@@ -12,6 +12,13 @@
 
 ###
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-Available%20for%20Work-4CAF50?style=for-the-badge&logo=checkmark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Open%20for%20Freelance-FF6B35?style=for-the-badge" />
+</p>
+
+###
+
 <h2 align="left">Featured Projects</h2>
 
 ###
@@ -72,7 +79,7 @@
    <img src="https://skillicons.dev/icons?i=express" height="28" alt="express logo"  />
   </p>
   <p>
-    <a href="https://housekonekt.onrender.com" target="_blank">🔗 Live Demo</a> • 
+    <a href="https://malibazee.onrender.com" target="_blank">🔗 Live Demo</a> • 
     <a href="https://github.com/kiptalam1/malibaze" target="_blank">📁 GitHub Repo</a>
   </p>
   <details>
@@ -152,11 +159,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=kiptalam1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiptalam1&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiptalam1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kiptalam1&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kiptalam1&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiptalam1&hide=jupyter%20notebook&layout=donut&theme=transparent)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kiptalam1&theme=transparent&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+###
+
+
 
 ###
 
