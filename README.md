@@ -166,6 +166,10 @@
 
 ###
 
+<h2 align="left">Let's Connect</h2>
+
+<p align="left">I'm actively looking for full-time opportunities and freelance projects. If you have a project in mind or just want to chat, reach out!</p>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/adams-kiptalam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -173,6 +177,12 @@
   <a href="mailto:adamskiptalam0@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://your-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio" />
+  </a>
+  <a href="link-to-your-resume.pdf" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="resume" />
+</a>
 </div>
 
 ###
