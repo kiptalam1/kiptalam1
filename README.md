@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-  <h3>🏢 ProjoStack</h3>
+  <h3>1. ProjoStack</h3>
   <p><strong>A multi-tenant workspace management platform</strong> — Manage workspaces, projects, tasks, and team members with role-based access control. Features workspace invitations, task assignments, and project tracking across multiple organizations.</p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
@@ -47,7 +47,7 @@
 <br>
 
 <div align="left">
-  <h3>🏠 Housekonekt</h3>
+  <h3>2. Housekonekt</h3>
   <p><strong>A property listing and tenant-landlord communication platform</strong> — Landlords post apartments with details and images. Tenants browse listings, filter by location/price, and chat directly with landlords to streamline the house-hunting process.</p>
   <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
@@ -70,7 +70,7 @@
 <br>
 
 <div align="left">
-  <h3>🛍️ Malibaze</h3>
+  <h3>3. Malibaze</h3>
   <p><strong>A full-featured e-commerce platform</strong> — Complete online store with product catalog, shopping cart, user authentication, order management, and payment processing.</p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
