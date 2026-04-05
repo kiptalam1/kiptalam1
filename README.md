@@ -131,6 +131,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
+  <img width="12" />
 </div>
 
 ###
@@ -180,18 +181,22 @@
 <p align="left">I'm actively looking for full-time opportunities and freelance projects. If you have a project in mind or just want to chat, reach out!</p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/adams-kiptalam/" target="_blank">
+  <a href="https://www.linkedin.com/in/adams-kiptalam/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:adamskiptalam0@gmail.com" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adamskiptalam0@gmail.com" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://your-portfolio.vercel.app" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://adams-kiptalam.vercel.app">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio" />
   </a>
-  <a href="link-to-your-resume.pdf" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="link-to-your-resume.pdf">
   <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="resume" />
 </a>
+ 
 </div>
 
 ###
