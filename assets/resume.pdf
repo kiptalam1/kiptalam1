@@ -1,0 +1,82 @@
+ADAMS KIPTALAM
+
+📍 Nairobi, Kenya | 📧 [Your Email]
+🔗 [LinkedIn] | 💻 [GitHub] | 🌐 https://adams-kiptalam.vercel.app/
+
+SUMMARY
+
+Software Engineer specializing in PERN/MERN stacks, with hands-on experience building multi-tenant systems, real-time applications, and secure APIs. Proven ability to design and ship production-grade applications used by real users, with emphasis on RBAC, rate limiting, and scalable backend architecture. Strong contributor with consistent GitHub activity (~2200 contributions).
+
+SKILLS
+
+Languages:
+JavaScript ●●●●● | TypeScript ●●●●●
+
+Frontend:
+React ●●●●● | React Query ●●●● | Zustand ●●●● | TailwindCSS ●●●●
+
+Backend:
+Node.js ●●●●● | Express ●●●●● | JWT Authentication ●●●● | Rate Limiting ●●●●
+
+Databases:
+PostgreSQL ●●●● | MongoDB ●●●●
+
+Tools & Testing:
+Prisma ●●●● | Mongoose ●●●● | Git ●●●●●
+Jest ●●●● | Vitest ●●●● | Supertest ●●●●
+
+PROJECTS
+ProjoStack — Multi-Tenant Project Management SaaS
+
+🔗 [Live URL] | [GitHub Repo]
+Stack: PERN (PostgreSQL, Express, React, Node.js)
+
+Architected a multi-tenant system with strict workspace isolation, ensuring secure data boundaries
+Implemented role-based access control (RBAC) across workspaces, projects, and tasks
+Built JWT-based authentication with refresh token flow
+Integrated rate limiting on authentication and API endpoints to mitigate abuse and enhance security
+Designed scalable backend using Prisma ORM and modular architecture
+Used by real users for managing projects and collaboration workflows
+Housekonekt — Real-Time Property Platform
+
+🔗 [Live URL] | [GitHub Repo]
+Stack: PERN + Socket.IO
+
+Developed a platform connecting landlords and house seekers with live property listings
+Implemented real-time communication using Socket.IO with support for multiple concurrent socket connections
+Designed relational schema for users, listings, and interactions
+Optimized client state using React Query and Zustand for performance and data consistency
+Tested with real users interacting concurrently across sessions
+Malibaze — E-commerce Platform
+
+🔗 [Live URL] | [GitHub Repo]
+Stack: MERN
+
+Built full-stack e-commerce system with product catalog, cart, and order workflows
+Designed REST APIs for authentication, product management, and transactions
+Modeled MongoDB schemas for efficient data retrieval and scalability
+Developed responsive UI using React and TailwindCSS
+Ensured API reliability through integration and unit testing (Jest, Vitest, Supertest)
+Validated with real users performing end-to-end purchase flows
+EXPERIENCE
+
+Software Engineer (Independent Projects)
+[Dates]
+
+Designed and deployed multiple full-stack applications with real-user validation
+Owned full lifecycle: architecture → development → testing → deployment
+Applied security best practices (JWT, rate limiting, RBAC) across systems
+Maintained high development consistency (2200+ GitHub contributions)
+EDUCATION
+
+BSc Environmental Health
+Daystar University, Kenya — 2023
+
+CERTIFICATIONS
+Data Science Bootcamp — [Provider]
+Full-Stack MERN Bootcamp — [Provider]
+ADDITIONAL STRENGTHS
+Backend architecture: multi-tenancy, RBAC, API security
+Real-time systems: Socket.IO, concurrent connections
+Testing discipline: unit + integration testing
+Strong ownership mindset with end-to-end system delivery
