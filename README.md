@@ -162,7 +162,7 @@
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kiptalam1&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kiptalam1&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiptalam1&hide=jupyter%20notebook&layout=donut&theme=transparent)](https://github.com/Pranesh-2005/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kiptalam1&theme=transparent&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kiptalam1&theme=transparent&layout=compact&display_format=percent)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 <!-- [![WakaTime Stats](https://wakatime.com/share/@kiptalam1/STATS.svg)](https://wakatime.com/@kiptalam1) -->
 
 
