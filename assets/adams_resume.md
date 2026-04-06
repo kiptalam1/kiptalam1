@@ -1,3 +1,6 @@
+📄 [Download PDF](./RESUME.pdf)
+---
+
 # ADAMS KIPTALAM
 ### Full-Stack Software Engineer
 
