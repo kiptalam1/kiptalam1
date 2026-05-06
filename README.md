@@ -193,7 +193,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="./assets/RESUME.pdf">
+  <a href="./assets/Adams_Kiptalam_Resume.pdf">
   <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="resume" />
 </a>
  
