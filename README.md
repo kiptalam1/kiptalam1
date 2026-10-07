@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer
 
-**React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB**
+**React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB · Prisma**
 
 Building production-ready web applications with modern frontend and backend technologies.
 
@@ -29,8 +29,6 @@ I'm a Full Stack Software Developer focused on building practical, scalable web 
 I work with **authentication and authorization, RBAC, REST APIs, relational database design, multi-tenant systems, real-time features, and full-stack application architecture**.
 
 Currently open to **full-time and freelance opportunities**.
-
----
 
 ## Featured Project
 
@@ -87,8 +85,6 @@ Currently open to **full-time and freelance opportunities**.
 <a href="https://projostack.onrender.com">Live Demo</a> ·
 <a href="https://github.com/kiptalam1/projostack">Repository</a>
 
----
-
 ### Housekonekt
 
 **Property listing and tenant-landlord communication platform** that allows landlords to publish properties and tenants to discover, filter, and communicate about available housing.
@@ -100,8 +96,6 @@ Currently open to **full-time and freelance opportunities**.
 <a href="https://housekonekt.onrender.com">Live Demo</a> ·
 <a href="https://github.com/kiptalam1/housekonekt">Repository</a>
 
----
-
 ### Malibaze
 
 **Full-stack e-commerce platform** with product management, shopping cart functionality, authentication, order management, and payment processing.
@@ -112,8 +106,6 @@ Currently open to **full-time and freelance opportunities**.
 
 <a href="https://malibazee.onrender.com">Live Demo</a> ·
 <a href="https://github.com/kiptalam1/malibaze">Repository</a>
-
----
 
 ## Technical Stack
 
@@ -190,8 +182,6 @@ Authentication · Authorization · RBAC · REST APIs · Database Design · Multi
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" />
 </p>
-
----
 
 ## GitHub Activity
 
