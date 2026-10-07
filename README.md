@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer
 
-**React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB · Prisma**
+**React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB**
 
 Building production-ready web applications with modern frontend and backend technologies.
 
@@ -67,7 +67,7 @@ Currently open to **full-time and freelance opportunities**.
 **Infrastructure:** Vercel · Render · Neon · GitHub
 
 <p>
-  <a href="https://kazi-frontend.vercel.app">Live Demo</a>
+  <a href="https://kazi-six-blue.vercel.app">Live Demo</a>
   ·
   <a href="https://github.com/kiptalam1/Kazi">GitHub Repository</a>
 </p>
