@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Adams Kiptalam
@@ -9,23 +8,15 @@
 
 Building production-ready web applications with modern frontend and backend technologies.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/adams-kiptalam/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:adamskiptalam0@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://adams-kiptalam.vercel.app">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="./assets/Adams_Kiptalam_Resume.pdf">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Resume" />
-  </a>
-</div>
+<p>
+  <a href="https://adams-kiptalam.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/adams-kiptalam/">LinkedIn</a>
+  ·
+  <a href="mailto:adamskiptalam0@gmail.com">Email</a>
+  ·
+  <a href="./assets/Adams_Kiptalam_Resume.pdf">Resume</a>
+</p>
 
 </div>
 
@@ -41,9 +32,9 @@ Currently open to **full-time and freelance opportunities**.
 
 ---
 
-# Featured Project
+## Featured Project
 
-## Kazi — Job Marketplace
+### Kazi — Job Marketplace
 
 <a href="https://github.com/kiptalam1/Kazi">
   <img src="./assets/kazi-preview.png" alt="Kazi job marketplace preview" width="100%">
@@ -83,9 +74,9 @@ Currently open to **full-time and freelance opportunities**.
 
 ---
 
-# Other Projects
+## Other Projects
 
-## ProjoStack
+### ProjoStack
 
 **Multi-tenant workspace management platform** for managing organizations, projects, tasks, and team members.
 
@@ -98,7 +89,7 @@ Currently open to **full-time and freelance opportunities**.
 
 ---
 
-## Housekonekt
+### Housekonekt
 
 **Property listing and tenant-landlord communication platform** that allows landlords to publish properties and tenants to discover, filter, and communicate about available housing.
 
@@ -111,7 +102,7 @@ Currently open to **full-time and freelance opportunities**.
 
 ---
 
-## Malibaze
+### Malibaze
 
 **Full-stack e-commerce platform** with product management, shopping cart functionality, authentication, order management, and payment processing.
 
@@ -124,7 +115,7 @@ Currently open to **full-time and freelance opportunities**.
 
 ---
 
-# Technical Stack
+## Technical Stack
 
 ### Frontend
 
@@ -168,8 +159,6 @@ Authentication · Authorization · RBAC · REST APIs · Database Design · Multi
 
 ### Tools
 
-Git · GitHub · Linux · Vite · Neovim · Vercel · Render
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
   &nbsp;
@@ -204,19 +193,22 @@ Git · GitHub · Linux · Vite · Neovim · Vercel · Render
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
-<div align="left">
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kiptalam1&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=kiptalam1&show_icons=true&theme=transparent" alt="Adams' GitHub statistics" />
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kiptalam1&theme=transparent" alt="Adams' GitHub streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=kiptalam1&show_icons=true&theme=transparent" alt="Adams' GitHub statistics" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# Let's Connect
+## Let's Connect
 
 I'm open to opportunities where I can contribute to building useful, reliable software.
 
