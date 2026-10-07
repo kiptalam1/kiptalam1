@@ -1,214 +1,239 @@
-<div>
-  <!-- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div> -->
 
-###
+<div align="center">
 
-<h1 align="left">Hey 👋 I'm Adams</h1>
+# Adams Kiptalam
 
-###
+### Full Stack Software Developer
 
-<p align="left">I build full-stack web applications with complex features like RBAC, real-time chat, and multi-tenancy. I am based in Kenya, and available for freelance work and full-time roles.</p>
+**React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB · Prisma**
 
-###
+Building production-ready web applications with modern frontend and backend technologies.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Available%20for%20Work-4CAF50?style=for-the-badge&logo=checkmark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20for%20Freelance-FF6B35?style=for-the-badge" />
-</p>
-
-###
-
-<h2 align="left">Featured Projects</h2>
-
-###
-
-<div align="left">
-  <h3>1. ProjoStack</h3>
-  <p><strong>A multi-tenant workspace management platform</strong> — Manage workspaces, projects, tasks, and team members with role-based access control. Features workspace invitations, task assignments, and project tracking across multiple organizations.</p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript" />
-  </p>
-  <p>
-    <a href="https://projostack.onrender.com" target="_blank">🔗 Live Demo</a> • 
-    <a href="https://github.com/kiptalam1/projostack" target="_blank">📁 GitHub Repo</a>
-  </p>
-  <details>
-    <summary>🔧 Tech Stack Details</summary>
-    Frontend: React, TypeScript, TailwindCSS<br>
-    Backend: Node.js, Express, PostgreSQL, Prisma<br>
-    Features: RBAC, Multi-tenancy, JWT auth, Workspace invitations
-  </details>
-</div>
-
-<br>
-
-<div align="left">
-  <h3>2. Housekonekt</h3>
-  <p><strong>A property listing and tenant-landlord communication platform</strong> — Landlords post apartments with details and images. Tenants browse listings, filter by location/price, and chat directly with landlords to streamline the house-hunting process.</p>
-  <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="28" alt="socketio" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="tailwindcss" />
-  </p>
-  <p>
-    <a href="https://housekonekt.onrender.com" target="_blank">🔗 Live Demo</a> • 
-    <a href="https://github.com/kiptalam1/housekonekt" target="_blank">📁 GitHub Repo</a>
-  </p>
-  <details>
-    <summary>🔧 Tech Stack Details</summary>
-    Frontend: React, TailwindCSS<br>
-    Backend: Node.js, Express, PostgreSQL, Socket.io<br>
-    Features: Real-time chat, Image uploads, Filtering & search
-  </details>
-</div>
-
-<br>
-
-<div align="left">
-  <h3>3. Malibaze</h3>
-  <p><strong>A full-featured e-commerce platform</strong> — Complete online store with product catalog, shopping cart, user authentication, order management, and payment processing.</p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb" />
-   <img src="https://skillicons.dev/icons?i=express" height="28" alt="express logo"  />
-  </p>
-  <p>
-    <a href="https://malibazee.onrender.com" target="_blank">🔗 Live Demo</a> • 
-    <a href="https://github.com/kiptalam1/malibaze" target="_blank">📁 GitHub Repo</a>
-  </p>
-  <details>
-    <summary>🔧 Tech Stack Details</summary>
-    Frontend: React, Context API, CSS Modules<br>
-    Backend: Node.js, Express, MongoDB, JWT<br>
-    Features: Shopping cart, Order tracking, Payment integration
-  </details>
-</div>
-
-###
-
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="sqlite logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="32" alt="socketio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="nestjs" />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="32" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="32" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-    <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="32" alt="bash logo"  />
-</div>
-
-###
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kiptalam1&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kiptalam1&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kiptalam1&hide=jupyter%20notebook&layout=donut&theme=transparent)](https://github.com/Pranesh-2005/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kiptalam1&theme=transparent&layout=compact&display_format=percent)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-<!-- [![WakaTime Stats](https://wakatime.com/share/@kiptalam1/STATS.svg)](https://wakatime.com/@kiptalam1) -->
-
-
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kiptalam1.kiptalam1&"  />
-</div>
-
-###
-
-<h2 align="left">Let's Connect</h2>
-
-<p align="left">I'm actively looking for full-time opportunities and freelance projects. If you have a project in mind or just want to chat, reach out!</p>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/adams-kiptalam/" >
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/adams-kiptalam/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:adamskiptalam0@gmail.com" >
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:adamskiptalam0@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adams-kiptalam.vercel.app">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="./assets/Adams_Kiptalam_Resume.pdf">
-  <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="resume" />
-</a>
- 
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Resume" />
+  </a>
 </div>
 
-###
+</div>
 
-<!-- <img src="https://raw.githubusercontent.com/kiptalam1/kiptalam1/output/snake.svg" alt="Snake animation" /> -->
+---
 
-###
+## About Me
 
-<div>
-  <!-- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div> -->
+I'm a Full Stack Software Developer focused on building practical, scalable web applications.
 
-###
+I work with **authentication and authorization, RBAC, REST APIs, relational database design, multi-tenant systems, real-time features, and full-stack application architecture**.
+
+Currently open to **full-time and freelance opportunities**.
+
+---
+
+# Featured Project
+
+## Kazi — Job Marketplace
+
+<a href="https://github.com/kiptalam1/Kazi">
+  <img src="./assets/kazi-preview.png" alt="Kazi job marketplace preview" width="100%">
+</a>
+
+**Kazi** is a full-stack job marketplace connecting candidates with employers. It supports job discovery, applications, employer management, authentication, company roles, and notifications.
+
+### Engineering Highlights
+
+- Secure authentication using access and refresh tokens
+- HTTP-only authentication cookies
+- Role-based access control
+- Candidate and employer workflows
+- Company membership and role management
+- Job creation and management
+- Job application lifecycle
+- Notification system
+- RESTful API architecture
+- PostgreSQL database with Prisma ORM
+- Responsive Next.js frontend
+
+### Tech Stack
+
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · TanStack Query
+
+**Backend:** NestJS · TypeScript · REST API
+
+**Database:** PostgreSQL · Prisma
+
+**Infrastructure:** Vercel · Render · Neon · GitHub
+
+<p>
+  <a href="https://kazi-frontend.vercel.app">Live Demo</a>
+  ·
+  <a href="https://github.com/kiptalam1/Kazi">GitHub Repository</a>
+</p>
+
+---
+
+# Other Projects
+
+## ProjoStack
+
+**Multi-tenant workspace management platform** for managing organizations, projects, tasks, and team members.
+
+**Key features:** Multi-tenancy · RBAC · Workspace invitations · Task assignments · Project management · JWT authentication
+
+**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Tailwind CSS
+
+<a href="https://projostack.onrender.com">Live Demo</a> ·
+<a href="https://github.com/kiptalam1/projostack">Repository</a>
+
+---
+
+## Housekonekt
+
+**Property listing and tenant-landlord communication platform** that allows landlords to publish properties and tenants to discover, filter, and communicate about available housing.
+
+**Key features:** Property listings · Search & filtering · Image uploads · Real-time chat · Tenant-landlord communication
+
+**Stack:** React · Node.js · Express · PostgreSQL · Socket.IO · Tailwind CSS
+
+<a href="https://housekonekt.onrender.com">Live Demo</a> ·
+<a href="https://github.com/kiptalam1/housekonekt">Repository</a>
+
+---
+
+## Malibaze
+
+**Full-stack e-commerce platform** with product management, shopping cart functionality, authentication, order management, and payment processing.
+
+**Key features:** Product catalog · Shopping cart · Authentication · Orders · Payment integration
+
+**Stack:** React · Node.js · Express · MongoDB · JWT · CSS Modules
+
+<a href="https://malibazee.onrender.com">Live Demo</a> ·
+<a href="https://github.com/kiptalam1/malibaze">Repository</a>
+
+---
+
+# Technical Stack
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="Tailwind CSS" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="NestJS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="Socket.IO" />
+</p>
+
+**ORM & Data Access:** Prisma
+
+### Engineering Focus
+
+Authentication · Authorization · RBAC · REST APIs · Database Design · Multi-tenancy · Real-time Applications · API Integration
+
+### Tools
+
+Git · GitHub · Linux · Vite · Neovim · Vercel · Render
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="32" alt="Neovim" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="32" alt="Vite" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="Vercel" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="32" alt="Bash" />
+</p>
+
+### Other Skills
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="Jest" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" />
+</p>
+
+---
+
+# GitHub Activity
+
+<div align="left">
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kiptalam1&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kiptalam1&show_icons=true&theme=transparent" alt="Adams' GitHub statistics" />
+
+</div>
+
+---
+
+# Let's Connect
+
+I'm open to opportunities where I can contribute to building useful, reliable software.
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/adams-kiptalam/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adamskiptalam0@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://adams-kiptalam.vercel.app">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./assets/Adams_Kiptalam_Resume.pdf">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Resume" />
+  </a>
+</div>
