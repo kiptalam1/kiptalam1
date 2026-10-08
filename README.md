@@ -9,13 +9,13 @@
 Building production-ready web applications with modern frontend and backend technologies.
 
 <p>
-  <a href="https://adams-kiptalam.vercel.app">Portfolio</a>
+  <a href="https://adams-kiptalam.vercel.app" target="_blank">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/adams-kiptalam/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/adams-kiptalam/" target="_blank">LinkedIn</a>
   ·
-  <a href="mailto:adamskiptalam0@gmail.com">Email</a>
+  <a href="mailto:adamskiptalam0@gmail.com" target="_blank">Email</a>
   ·
-  <a href="./assets/Adams_Kiptalam_Resume.pdf">Resume</a>
+  <a href="./assets/Adams_Kiptalam_Resume.pdf" target="_blank">Resume</a>
 </p>
 
 </div>
